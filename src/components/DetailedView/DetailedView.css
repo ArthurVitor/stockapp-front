@@ -1,0 +1,40 @@
+.flex{
+    height: 75vh;
+    background-color: #FFF;
+    border-radius: 20px;
+    margin: 1%;
+}
+
+.flex-box{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-box {
+    width: 17vw;
+    min-height: 48vh;
+    height: fit-content;
+    position: relative;
+    border: 2px solid rgba(102, 179, 186, 0.5);
+    border-radius: 10px;
+    word-wrap: break-word; 
+    white-space: pre-wrap;
+}
+
+.array-listing-box {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.divider {
+    align-self: center;
+    display: flex;
+    height: 90%;
+}

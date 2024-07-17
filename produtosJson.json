@@ -1,0 +1,2888 @@
+[
+  {
+    "name": "Chá",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten"]
+  },
+  {
+    "name": "Leite",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Em Conserva", "Líquido"]
+  },
+  {
+    "name": "Tomate",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Vegano"]
+  },
+  {
+    "name": "Condicionador",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Glúten"]
+  },
+  {
+    "name": "Batata",
+    "category": 1,
+    "perishable": true,
+    "subCategories": [
+      "Vegetariano",
+      "Orgânico",
+      "Importado",
+      "Sem Glúten",
+      "Amargo"
+    ]
+  },
+  {
+    "name": "Cebola",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Vegetariano", "Sólido", "Doce"]
+  },
+  { "name": "Ovos", "category": 2, "perishable": true, "subCategories": [] },
+  { "name": "Alface", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Sabão em Pó",
+    "category": 2,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Banana",
+    "category": 4,
+    "perishable": true,
+    "subCategories": [
+      "Vegetariano",
+      "Importado",
+      "Fresco",
+      "Artesanal",
+      "Integral"
+    ]
+  },
+  { "name": "Vinho", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Ração para Animais",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Congelado", "Salgado", "Nacional", "Light"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Doce", "Crocante", "Vegetariano", "Fresco"]
+  },
+  {
+    "name": "Calçados",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Vegetariano", "Sólido", "Artesanal"]
+  },
+  {
+    "name": "Suco",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado"]
+  },
+  {
+    "name": "Cosméticos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Açúcar",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Integral", "Crocante", "Sólido", "Azedo", "Sem Glúten"]
+  },
+  { "name": "Batata", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Cenoura",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Desinfetante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Fresco", "Em Conserva"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Azedo"]
+  },
+  {
+    "name": "Brinquedos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Integral", "Nacional", "Picante", "Diet"]
+  },
+  {
+    "name": "Uísque",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Picante"]
+  },
+  {
+    "name": "Cachaça",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Nacional", "Vegetariano"]
+  },
+  {
+    "name": "Ovos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Artesanal"]
+  },
+  { "name": "Água", "category": 4, "perishable": true, "subCategories": [] },
+  { "name": "Azeite", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Protetor Solar",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Líquido", "Integral", "Orgânico"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  {
+    "name": "Laranja",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  { "name": "Farinha", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Fermento",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Feijão",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Livros",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Integral", "Picante", "Diet", "Crocante", "Vegetariano"]
+  },
+  {
+    "name": "Vodka",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Lactose", "Diet"]
+  },
+  {
+    "name": "Amaciante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Líquido", "Amargo", "Em Pó"]
+  },
+  {
+    "name": "Banana",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Light", "Cremoso"]
+  },
+  {
+    "name": "Feijão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  {
+    "name": "Ração para Animais",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Sólido", "Fresco"]
+  },
+  {
+    "name": "Jogos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Fresco", "Light", "Salgado"]
+  },
+  {
+    "name": "Azeite",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Líquido", "Artesanal", "Em Pó", "Salgado"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Crocante", "Sem Lactose"]
+  },
+  { "name": "Carne", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Ração para Animais",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Salgado", "Sem Lactose", "Vegano", "Diet"]
+  },
+  { "name": "Laranja", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Decoração",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet", "Sem Glúten", "Líquido", "Sem Lactose"]
+  },
+  {
+    "name": "Farinha",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Salgado", "Em Conserva", "Amargo", "Vegano"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Fresco", "Amargo", "Vegetariano", "Em Pó", "Nacional"]
+  },
+  {
+    "name": "Cachaça",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Cremoso"]
+  },
+  {
+    "name": "Café",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Doce"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Salgado", "Orgânico"]
+  },
+  {
+    "name": "Perfume",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Salgado"]
+  },
+  {
+    "name": "Batata",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Lactose"]
+  },
+  {
+    "name": "Laranja",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Em Conserva", "Amargo", "Orgânico", "Salgado"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Vegetariano"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Nacional"]
+  },
+  {
+    "name": "Queijo",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Azedo", "Doce"]
+  },
+  { "name": "Shampoo", "category": 2, "perishable": true, "subCategories": [] },
+  { "name": "Queijo", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Creme Hidratante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Tomate",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Sem Glúten",
+      "Orgânico",
+      "Crocante",
+      "Líquido",
+      "Nacional"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Nacional", "Diet", "Fresco", "Em Pó"]
+  },
+  { "name": "Roupas", "category": 4, "perishable": true, "subCategories": [] },
+  { "name": "Uísque", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Light", "Azedo", "Sólido"]
+  },
+  {
+    "name": "Alface",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Salgado", "Cremoso", "Light"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  {
+    "name": "Carne",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Lactose"]
+  },
+  { "name": "Sorvete", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Cosméticos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Vegano", "Sólido", "Diet", "Congelado"]
+  },
+  {
+    "name": "Leite",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Amargo", "Salgado", "Sem Glúten"]
+  },
+  {
+    "name": "Desodorante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Amargo"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Congelado", "Crocante", "Picante"]
+  },
+  {
+    "name": "Livros",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Diet", "Artesanal", "Amargo", "Sem Lactose"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 2,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Cachaça",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Crocante", "Vegetariano", "Em Pó"]
+  },
+  {
+    "name": "Uísque",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Shampoo",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Salgado"]
+  },
+  {
+    "name": "Hambúrguer",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Amargo", "Importado", "Integral"]
+  },
+  {
+    "name": "Alface",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Nacional", "Congelado"]
+  },
+  {
+    "name": "Iogurte",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Café",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Azedo", "Fresco", "Em Pó", "Líquido"]
+  },
+  {
+    "name": "Desodorante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Desinfetante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Fresco", "Importado", "Nacional", "Doce"]
+  },
+  {
+    "name": "Uísque",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Vegetariano", "Fresco"]
+  },
+  {
+    "name": "Hambúrguer",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Salgado"]
+  },
+  {
+    "name": "Banana",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Vegano", "Fresco", "Em Pó", "Nacional"]
+  },
+  {
+    "name": "Chá",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Azedo", "Sem Lactose", "Vegano", "Fresco"]
+  },
+  {
+    "name": "Vodka",
+    "category": 5,
+    "perishable": true,
+    "subCategories": [
+      "Importado",
+      "Artesanal",
+      "Picante",
+      "Crocante",
+      "Sem Glúten"
+    ]
+  },
+  {
+    "name": "Eletrônicos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Acessórios",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  { "name": "Cerveja", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Arroz",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Integral", "Fresco"]
+  },
+  {
+    "name": "Banana",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light", "Vegano"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Crocante", "Vegano", "Integral", "Doce"]
+  },
+  { "name": "Ovos", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Pudim",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Sólido"]
+  },
+  {
+    "name": "Gelatina",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado", "Sólido"]
+  },
+  {
+    "name": "Fermento",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Líquido"]
+  },
+  {
+    "name": "Frango",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Artesanal"]
+  },
+  {
+    "name": "Amaciante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Crocante", "Congelado", "Light"]
+  },
+  {
+    "name": "Vodka",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Sem Glúten", "Diet", "Em Pó", "Picante"]
+  },
+  {
+    "name": "Leite",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Integral", "Em Pó", "Amargo", "Em Conserva"]
+  },
+  {
+    "name": "Queijo",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Fresco", "Em Conserva"]
+  },
+  {
+    "name": "Uísque",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Light", "Picante", "Congelado"]
+  },
+  {
+    "name": "Material Escolar",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Café",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Orgânico",
+      "Integral",
+      "Importado",
+      "Nacional",
+      "Congelado"
+    ]
+  },
+  { "name": "Café", "category": 3, "perishable": true, "subCategories": [] },
+  { "name": "Banana", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Creme Hidratante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Fresco", "Light", "Caseiro"]
+  },
+  {
+    "name": "Acessórios",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Peixe",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Amargo", "Azedo", "Picante", "Cremoso", "Artesanal"]
+  },
+  {
+    "name": "Móveis",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Artesanal"]
+  },
+  {
+    "name": "Farinha",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sólido", "Cremoso", "Caseiro", "Sem Lactose"]
+  },
+  { "name": "Cerveja", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Gelatina",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Amargo", "Sem Lactose", "Diet", "Importado", "Orgânico"]
+  },
+  {
+    "name": "Biscoito",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Glúten", "Doce", "Diet"]
+  },
+  {
+    "name": "Calçados",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Integral", "Sólido", "Picante", "Vegano", "Vegetariano"]
+  },
+  {
+    "name": "Amaciante",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Líquido"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Importado", "Doce", "Light"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Fresco"]
+  },
+  {
+    "name": "Água",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Nacional", "Picante"]
+  },
+  {
+    "name": "Detergente",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Salgado", "Doce", "Sem Glúten"]
+  },
+  { "name": "Ovos", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Chocolate",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Doce", "Importado", "Light", "Amargo"]
+  },
+  {
+    "name": "Livros",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Cremoso", "Salgado", "Caseiro"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Diet", "Crocante", "Amargo", "Sem Lactose"]
+  },
+  {
+    "name": "Calçados",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Nacional"]
+  },
+  {
+    "name": "Cosméticos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Sem Glúten", "Amargo"]
+  },
+  { "name": "Sal", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Manteiga",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Congelado", "Light", "Vegano"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Vegano", "Orgânico"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Amargo", "Líquido", "Artesanal", "Azedo"]
+  },
+  {
+    "name": "Água",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Light", "Vegetariano", "Azedo"]
+  },
+  {
+    "name": "Gelatina",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegano"]
+  },
+  {
+    "name": "Cachaça",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Vegetariano", "Sem Lactose"]
+  },
+  {
+    "name": "Pão",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  {
+    "name": "Vodka",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Crocante", "Importado", "Diet", "Doce"]
+  },
+  {
+    "name": "Protetor Solar",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Picante", "Doce", "Caseiro", "Sem Lactose"]
+  },
+  {
+    "name": "Eletrônicos",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Detergente",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Importado"]
+  },
+  {
+    "name": "Feijão",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Picante", "Orgânico"]
+  },
+  {
+    "name": "Arroz",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Vegano", "Azedo"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Integral", "Caseiro", "Azedo", "Picante"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sólido", "Light", "Líquido", "Doce", "Diet"]
+  },
+  {
+    "name": "Leite",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Congelado", "Artesanal", "Vegano"]
+  },
+  {
+    "name": "Amaciante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Congelado", "Líquido", "Em Pó"]
+  },
+  {
+    "name": "Papel Higiênico",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Vegano"]
+  },
+  {
+    "name": "Maquiagem",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Diet", "Integral", "Em Conserva"]
+  },
+  { "name": "Cebola", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Perfume",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Integral", "Picante", "Artesanal"]
+  },
+  { "name": "Azeite", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Feijão",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sólido"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Integral", "Caseiro", "Picante", "Em Pó"]
+  },
+  {
+    "name": "Peixe",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Light", "Diet"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Light", "Vegano", "Doce"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Jogos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Importado", "Fresco", "Congelado", "Doce", "Vegano"]
+  },
+  {
+    "name": "Batata",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Azedo", "Líquido", "Salgado", "Cremoso"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 1,
+    "perishable": true,
+    "subCategories": [
+      "Amargo",
+      "Sem Lactose",
+      "Nacional",
+      "Vegetariano",
+      "Azedo"
+    ]
+  },
+  {
+    "name": "Shampoo",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Picante", "Caseiro", "Sem Glúten", "Diet", "Orgânico"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Doce", "Picante", "Integral", "Azedo"]
+  },
+  {
+    "name": "Leite",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Lactose"]
+  },
+  {
+    "name": "Pão",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Diet", "Sem Glúten", "Integral", "Em Conserva"]
+  },
+  {
+    "name": "Água",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Integral", "Sólido", "Em Conserva"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Picante", "Sólido"]
+  },
+  {
+    "name": "Laranja",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Diet", "Vegetariano", "Amargo", "Integral"]
+  },
+  {
+    "name": "Cerveja",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Vegano", "Fresco", "Em Pó", "Integral"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Integral", "Líquido", "Cremoso", "Caseiro"]
+  },
+  {
+    "name": "Detergente",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Nacional", "Caseiro", "Azedo", "Cremoso"]
+  },
+  {
+    "name": "Decoração",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Crocante", "Integral", "Congelado", "Em Pó", "Fresco"]
+  },
+  {
+    "name": "Eletrônicos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Uísque",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Nacional", "Salgado"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Congelado", "Líquido"]
+  },
+  {
+    "name": "Batata",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce", "Em Conserva", "Diet"]
+  },
+  {
+    "name": "Peixe",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Congelado", "Amargo"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet", "Light", "Vegano"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Crocante", "Doce"]
+  },
+  {
+    "name": "Água",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet", "Líquido"]
+  },
+  {
+    "name": "Cebola",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Sem Lactose", "Picante", "Importado"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Suco",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  {
+    "name": "Sabonete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 2,
+    "perishable": true,
+    "subCategories": [
+      "Em Pó",
+      "Importado",
+      "Em Conserva",
+      "Crocante",
+      "Sem Glúten"
+    ]
+  },
+  {
+    "name": "Acessórios",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Integral", "Fresco", "Azedo"]
+  },
+  {
+    "name": "Maquiagem",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce"]
+  },
+  {
+    "name": "Carne",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Líquido", "Vegetariano", "Orgânico"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Importado", "Diet", "Salgado", "Azedo"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Artesanal"]
+  },
+  {
+    "name": "Papel Higiênico",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Integral"]
+  },
+  {
+    "name": "Brinquedos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Vegano", "Em Conserva", "Congelado"]
+  },
+  {
+    "name": "Uísque",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Nacional", "Caseiro", "Sólido", "Artesanal", "Congelado"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Picante", "Crocante"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Congelado", "Em Pó", "Doce", "Crocante"]
+  },
+  {
+    "name": "Azeite",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Líquido", "Sem Glúten"]
+  },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sólido", "Sem Lactose", "Amargo", "Salgado", "Líquido"]
+  },
+  { "name": "Sal", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Suco",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Fresco", "Amargo", "Azedo", "Diet"]
+  },
+  {
+    "name": "Pão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Líquido", "Sólido"]
+  },
+  {
+    "name": "Amaciante",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Ovos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Nacional", "Vegetariano"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Arroz",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Amargo", "Vegetariano", "Integral", "Orgânico"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Detergente",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Importado", "Em Pó", "Orgânico", "Diet", "Integral"]
+  },
+  {
+    "name": "Sal",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Sem Lactose"]
+  },
+  {
+    "name": "Chá",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Cremoso",
+      "Crocante",
+      "Importado",
+      "Vegetariano",
+      "Congelado"
+    ]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Orgânico", "Nacional", "Líquido", "Diet"]
+  },
+  {
+    "name": "Desinfetante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Bolacha",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Crocante", "Importado", "Amargo", "Caseiro", "Integral"]
+  },
+  {
+    "name": "Queijo",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Artesanal"]
+  },
+  {
+    "name": "Batata",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Azedo", "Crocante", "Cremoso", "Light"]
+  },
+  { "name": "Shampoo", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Protetor Solar",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Sólido", "Importado", "Picante"]
+  },
+  {
+    "name": "Pizza",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Importado", "Orgânico"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Importado", "Crocante", "Orgânico", "Artesanal"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Importado", "Congelado", "Integral"]
+  },
+  {
+    "name": "Suco",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Sem Lactose", "Em Conserva", "Doce"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Picante"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Picante", "Importado", "Light", "Doce"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Amargo", "Crocante", "Em Pó"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Leite",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Líquido", "Sólido", "Diet"]
+  },
+  { "name": "Azeite", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Refrigerante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Líquido", "Sem Lactose", "Nacional", "Salgado"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Fresco", "Diet", "Picante"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Cremoso", "Sólido", "Fresco", "Nacional"]
+  },
+  {
+    "name": "Ovos",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Desodorante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sólido", "Em Pó"]
+  },
+  {
+    "name": "Cerveja",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Vegano", "Caseiro"]
+  },
+  {
+    "name": "Maçã",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Vegano", "Salgado", "Importado", "Em Conserva"]
+  },
+  {
+    "name": "Alface",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce", "Amargo"]
+  },
+  {
+    "name": "Cachaça",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Batata Frita",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sólido"]
+  },
+  {
+    "name": "Macarrão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Desodorante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Fresco", "Artesanal"]
+  },
+  {
+    "name": "Tomate",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Amargo", "Salgado", "Diet"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Integral"]
+  },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Líquido"]
+  },
+  {
+    "name": "Café",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten"]
+  },
+  {
+    "name": "Jogos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Fresco", "Amargo"]
+  },
+  {
+    "name": "Biscoito",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Congelado", "Diet", "Salgado"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Doce", "Salgado"]
+  },
+  {
+    "name": "Macarrão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Caseiro", "Crocante", "Light", "Líquido"]
+  },
+  {
+    "name": "Móveis",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Líquido", "Orgânico", "Artesanal", "Salgado"]
+  },
+  {
+    "name": "Hambúrguer",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Amargo", "Light", "Sólido", "Em Conserva"]
+  },
+  { "name": "Alface", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Material Escolar",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Queijo",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegano", "Vegetariano", "Salgado", "Crocante"]
+  },
+  {
+    "name": "Ração para Animais",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Integral", "Diet"]
+  },
+  {
+    "name": "Maquiagem",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Diet"]
+  },
+  { "name": "Pudim", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Pudim",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Salgado", "Sólido"]
+  },
+  {
+    "name": "Fermento",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Sólido"]
+  },
+  {
+    "name": "Feijão",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Cremoso", "Azedo"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  { "name": "Queijo", "category": 4, "perishable": true, "subCategories": [] },
+  { "name": "Shampoo", "category": 5, "perishable": true, "subCategories": [] },
+  { "name": "Jogos", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Calçados",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Chocolate",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Líquido", "Em Pó", "Amargo", "Crocante"]
+  },
+  { "name": "Shampoo", "category": 1, "perishable": true, "subCategories": [] },
+  { "name": "Farinha", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Peixe",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Doce", "Fresco", "Vegetariano", "Líquido"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Cremoso"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Crocante", "Azedo"]
+  },
+  {
+    "name": "Arroz",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Nacional"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Protetor Solar",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Fresco", "Orgânico"]
+  },
+  {
+    "name": "Protetor Solar",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Fresco", "Caseiro", "Em Conserva"]
+  },
+  {
+    "name": "Maquiagem",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Sem Glúten",
+      "Sólido",
+      "Orgânico",
+      "Crocante",
+      "Integral"
+    ]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Salgado", "Importado", "Sem Glúten", "Nacional"]
+  },
+  {
+    "name": "Sal",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Light", "Caseiro"]
+  },
+  {
+    "name": "Ração para Animais",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Sabonete",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Uísque",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Light", "Crocante", "Amargo"]
+  },
+  {
+    "name": "Cenoura",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Importado", "Fresco", "Doce", "Líquido"]
+  },
+  {
+    "name": "Tomate",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Em Pó", "Cremoso", "Em Conserva", "Vegano"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Caseiro"]
+  },
+  {
+    "name": "Perfume",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Amargo"]
+  },
+  {
+    "name": "Acessórios",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Doce", "Congelado", "Em Pó", "Artesanal", "Vegetariano"]
+  },
+  {
+    "name": "Perfume",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Cremoso", "Diet", "Vegetariano"]
+  },
+  {
+    "name": "Laranja",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Biscoito",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Roupas",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Cremoso", "Vegano", "Orgânico"]
+  },
+  {
+    "name": "Iogurte",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Fresco", "Salgado", "Orgânico"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Brinquedos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Hambúrguer",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Glúten", "Líquido"]
+  },
+  {
+    "name": "Tomate",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Caseiro", "Light"]
+  },
+  {
+    "name": "Sabão em Pó",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Nacional"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light", "Artesanal", "Azedo", "Picante", "Diet"]
+  },
+  {
+    "name": "Cebola",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Vegano", "Doce"]
+  },
+  {
+    "name": "Queijo",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Crocante", "Nacional", "Congelado"]
+  },
+  {
+    "name": "Pudim",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Azedo"]
+  },
+  {
+    "name": "Macarrão",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sólido", "Integral", "Importado"]
+  },
+  { "name": "Uísque", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Pasta de Dente",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Lactose", "Amargo"]
+  },
+  {
+    "name": "Biscoito",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce", "Líquido", "Nacional", "Importado", "Azedo"]
+  },
+  {
+    "name": "Iogurte",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Nacional"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Líquido", "Caseiro"]
+  },
+  {
+    "name": "Maçã",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light", "Fresco"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Light", "Sem Lactose", "Vegetariano", "Integral"]
+  },
+  {
+    "name": "Medicamentos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Salgado"]
+  },
+  { "name": "Queijo", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Creme Hidratante",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Orgânico"]
+  },
+  {
+    "name": "Maquiagem",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Vinho",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Congelado", "Caseiro", "Light", "Picante", "Integral"]
+  },
+  {
+    "name": "Livros",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Orgânico", "Importado"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Azedo", "Em Conserva", "Crocante"]
+  },
+  {
+    "name": "Desinfetante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Nacional", "Sólido"]
+  },
+  {
+    "name": "Água",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegano", "Cremoso", "Em Conserva"]
+  },
+  {
+    "name": "Decoração",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  {
+    "name": "Azeite",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Light", "Importado", "Cremoso", "Em Conserva", "Amargo"]
+  },
+  { "name": "Peixe", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Refrigerante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Crocante", "Sem Glúten"]
+  },
+  {
+    "name": "Iogurte",
+    "category": 4,
+    "perishable": true,
+    "subCategories": [
+      "Fresco",
+      "Sem Lactose",
+      "Salgado",
+      "Congelado",
+      "Crocante"
+    ]
+  },
+  {
+    "name": "Vodka",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Diet", "Doce", "Light"]
+  },
+  {
+    "name": "Água",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Integral"]
+  },
+  {
+    "name": "Calçados",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado", "Importado", "Salgado"]
+  },
+  {
+    "name": "Calçados",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Nacional", "Picante"]
+  },
+  {
+    "name": "Livros",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Nacional", "Cremoso", "Orgânico", "Amargo"]
+  },
+  {
+    "name": "Frango",
+    "category": 2,
+    "perishable": true,
+    "subCategories": [
+      "Em Conserva",
+      "Crocante",
+      "Importado",
+      "Artesanal",
+      "Sólido"
+    ]
+  },
+  {
+    "name": "Alface",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Doce", "Picante"]
+  },
+  {
+    "name": "Alface",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Integral", "Importado"]
+  },
+  {
+    "name": "Jogos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Salgado", "Sem Glúten"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Light", "Artesanal", "Vegetariano"]
+  },
+  {
+    "name": "Vinho",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Diet", "Light", "Sem Glúten", "Em Pó", "Fresco"]
+  },
+  {
+    "name": "Sabonete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Nacional", "Azedo", "Vegano", "Doce"]
+  },
+  { "name": "Carne", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Ovos",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Amargo", "Congelado", "Orgânico", "Nacional"]
+  },
+  {
+    "name": "Leite",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Picante", "Em Pó", "Azedo"]
+  },
+  {
+    "name": "Eletrônicos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  {
+    "name": "Chocolate",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Amargo", "Cremoso", "Sem Lactose"]
+  },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado", "Doce"]
+  },
+  {
+    "name": "Leite",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado", "Crocante"]
+  },
+  {
+    "name": "Roupas",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Integral", "Cremoso", "Picante", "Crocante"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Fresco", "Diet"]
+  },
+  {
+    "name": "Maçã",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Líquido"]
+  },
+  {
+    "name": "Suco",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano"]
+  },
+  {
+    "name": "Detergente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Light", "Sólido", "Sem Lactose", "Azedo"]
+  },
+  {
+    "name": "Calçados",
+    "category": 2,
+    "perishable": true,
+    "subCategories": [
+      "Congelado",
+      "Vegetariano",
+      "Amargo",
+      "Nacional",
+      "Caseiro"
+    ]
+  },
+  {
+    "name": "Água",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Doce", "Sem Lactose", "Fresco"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Alface",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Integral", "Congelado", "Azedo", "Em Conserva", "Doce"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Orgânico"]
+  },
+  {
+    "name": "Sabonete",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Salgado", "Importado", "Diet", "Artesanal"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Congelado", "Doce", "Amargo", "Sem Glúten"]
+  },
+  {
+    "name": "Decoração",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Glúten", "Salgado"]
+  },
+  {
+    "name": "Frango",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Fresco", "Salgado"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Diet", "Nacional", "Vegetariano"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Caseiro", "Fresco", "Diet"]
+  },
+  {
+    "name": "Sal",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Em Conserva", "Crocante"]
+  },
+  {
+    "name": "Decoração",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Diet", "Doce", "Importado", "Fresco"]
+  },
+  {
+    "name": "Frango",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Azedo"]
+  },
+  {
+    "name": "Desinfetante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Fresco", "Doce", "Amargo", "Importado", "Sem Lactose"]
+  },
+  {
+    "name": "Macarrão",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Crocante", "Cremoso", "Fresco", "Light", "Sem Glúten"]
+  },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Importado"]
+  },
+  {
+    "name": "Banana",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Salgado", "Artesanal", "Crocante"]
+  },
+  {
+    "name": "Batata",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Congelado", "Sólido"]
+  },
+  {
+    "name": "Calçados",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Doce"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Papel Higiênico",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó"]
+  },
+  { "name": "Cenoura", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Frango",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Light", "Nacional", "Sem Glúten", "Em Pó"]
+  },
+  {
+    "name": "Frango",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Nacional", "Picante", "Diet"]
+  },
+  {
+    "name": "Carne",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Amargo", "Importado", "Fresco"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Vegano"]
+  },
+  {
+    "name": "Sabão em Pó",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Desodorante",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Gelatina",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Batata",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Nacional", "Diet", "Importado", "Caseiro"]
+  },
+  {
+    "name": "Ração para Animais",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Vegano"]
+  },
+  {
+    "name": "Carne",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Picante"]
+  },
+  {
+    "name": "Roupas",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Importado", "Integral", "Doce", "Diet"]
+  },
+  { "name": "Sorvete", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Manteiga",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Crocante", "Integral", "Fresco", "Sem Lactose"]
+  },
+  {
+    "name": "Roupas",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Picante"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Nacional", "Vegano", "Artesanal", "Sem Glúten", "Sólido"]
+  },
+  {
+    "name": "Acessórios",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Importado", "Vegetariano"]
+  },
+  {
+    "name": "Laranja",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Amargo", "Azedo", "Caseiro"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Picante"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Amargo", "Vegano", "Orgânico"]
+  },
+  {
+    "name": "Condicionador",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Detergente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Sólido", "Amargo", "Diet"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Em Pó", "Salgado"]
+  },
+  {
+    "name": "Chá",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Nacional", "Cremoso", "Vegetariano", "Congelado"]
+  },
+  {
+    "name": "Laranja",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Fresco", "Vegano", "Salgado", "Integral"]
+  },
+  {
+    "name": "Brinquedos",
+    "category": 5,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Detergente",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Fresco", "Vegano", "Amargo"]
+  },
+  {
+    "name": "Móveis",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Fresco", "Orgânico", "Nacional"]
+  },
+  {
+    "name": "Queijo",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Em Pó", "Caseiro", "Azedo", "Salgado"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Congelado", "Fresco", "Salgado", "Amargo"]
+  },
+  {
+    "name": "Bolacha",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Líquido", "Doce", "Fresco", "Sólido"]
+  },
+  {
+    "name": "Feijão",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Picante", "Nacional", "Artesanal", "Diet"]
+  },
+  {
+    "name": "Frango",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Light", "Vegetariano", "Amargo", "Doce", "Em Conserva"]
+  },
+  {
+    "name": "Condicionador",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Light", "Integral", "Vegetariano", "Congelado"]
+  },
+  {
+    "name": "Iogurte",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Vegano", "Sólido"]
+  },
+  {
+    "name": "Alface",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Nacional", "Em Conserva", "Diet", "Cremoso"]
+  },
+  {
+    "name": "Gelatina",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Crocante", "Congelado", "Light"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Bolacha",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Em Conserva", "Em Pó", "Sólido", "Integral"]
+  },
+  { "name": "Iogurte", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Açúcar",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Orgânico", "Fresco", "Sem Lactose"]
+  },
+  {
+    "name": "Gelatina",
+    "category": 4,
+    "perishable": true,
+    "subCategories": [
+      "Em Pó",
+      "Nacional",
+      "Cremoso",
+      "Congelado",
+      "Vegetariano"
+    ]
+  },
+  {
+    "name": "Cenoura",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Integral", "Cremoso", "Sólido"]
+  },
+  {
+    "name": "Cosméticos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Fresco", "Sem Glúten", "Vegetariano"]
+  },
+  {
+    "name": "Sabão em Pó",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Integral"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 3,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Cerveja",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Sem Lactose"]
+  },
+  {
+    "name": "Leite",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Light"]
+  },
+  {
+    "name": "Perfume",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Sem Glúten", "Caseiro", "Doce"]
+  },
+  {
+    "name": "Calçados",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Congelado", "Líquido", "Sem Lactose", "Cremoso"]
+  },
+  {
+    "name": "Maçã",
+    "category": 1,
+    "perishable": true,
+    "subCategories": [
+      "Congelado",
+      "Integral",
+      "Cremoso",
+      "Nacional",
+      "Sem Glúten"
+    ]
+  },
+  {
+    "name": "Feijão",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Salgado", "Sem Glúten", "Em Pó"]
+  },
+  {
+    "name": "Pudim",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Doce", "Líquido", "Sem Lactose"]
+  },
+  {
+    "name": "Tomate",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Diet", "Crocante", "Líquido"]
+  },
+  {
+    "name": "Perfume",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Sem Lactose",
+      "Vegetariano",
+      "Fresco",
+      "Congelado",
+      "Orgânico"
+    ]
+  },
+  {
+    "name": "Pão",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Líquido"]
+  },
+  {
+    "name": "Fermento",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Nacional", "Fresco", "Congelado", "Cremoso"]
+  },
+  {
+    "name": "Roupas",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Amargo", "Importado"]
+  },
+  { "name": "Leite", "category": 3, "perishable": true, "subCategories": [] },
+  {
+    "name": "Macarrão",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Cerveja",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Vegano", "Nacional", "Artesanal", "Amargo", "Cremoso"]
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 2,
+    "perishable": true,
+    "subCategories": [
+      "Integral",
+      "Sólido",
+      "Sem Lactose",
+      "Light",
+      "Vegetariano"
+    ]
+  },
+  {
+    "name": "Fermento",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Diet", "Sem Glúten", "Amargo", "Vegano", "Sem Lactose"]
+  },
+  {
+    "name": "Alface",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Congelado", "Vegano"]
+  },
+  {
+    "name": "Pudim",
+    "category": 5,
+    "perishable": true,
+    "subCategories": [
+      "Orgânico",
+      "Sem Glúten",
+      "Importado",
+      "Sem Lactose",
+      "Nacional"
+    ]
+  },
+  {
+    "name": "Brinquedos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Salgado", "Vegano", "Congelado", "Artesanal"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sólido", "Líquido", "Vegetariano", "Artesanal", "Diet"]
+  },
+  { "name": "Shampoo", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Acessórios",
+    "category": 3,
+    "perishable": true,
+    "subCategories": [
+      "Líquido",
+      "Sem Glúten",
+      "Artesanal",
+      "Azedo",
+      "Sem Lactose"
+    ]
+  },
+  {
+    "name": "Macarrão",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Diet", "Artesanal"]
+  },
+  {
+    "name": "Laranja",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Vegetariano", "Doce", "Picante"]
+  },
+  {
+    "name": "Açúcar",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Sólido", "Azedo", "Picante", "Vegetariano"]
+  },
+  {
+    "name": "Pizza",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce", "Diet"]
+  },
+  { "name": "Cerveja", "category": 2, "perishable": true, "subCategories": [] },
+  {
+    "name": "Macarrão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Arroz",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Integral", "Doce", "Sem Lactose"]
+  },
+  {
+    "name": "Shampoo",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Light", "Cremoso", "Doce", "Salgado"]
+  },
+  {
+    "name": "Arroz",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Caseiro", "Em Conserva", "Sólido", "Azedo"]
+  },
+  { "name": "Feijão", "category": 1, "perishable": true, "subCategories": [] },
+  {
+    "name": "Creme Hidratante",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Importado", "Fresco", "Salgado"]
+  },
+  {
+    "name": "Peixe",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Orgânico", "Diet", "Amargo", "Sem Glúten", "Artesanal"]
+  },
+  {
+    "name": "Sabonete",
+    "category": 4,
+    "perishable": true,
+    "subCategories": [
+      "Sólido",
+      "Sem Lactose",
+      "Fresco",
+      "Caseiro",
+      "Sem Glúten"
+    ]
+  },
+  {
+    "name": "Sabão em Pó",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Lactose"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegano"]
+  },
+  {
+    "name": "Eletrodomésticos",
+    "category": 4,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Pasta de Dente",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Suco",
+    "category": 1,
+    "perishable": true,
+    "subCategories": [
+      "Congelado",
+      "Vegetariano",
+      "Artesanal",
+      "Integral",
+      "Diet"
+    ]
+  },
+  {
+    "name": "Decoração",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Congelado"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Caseiro"]
+  },
+  {
+    "name": "Manteiga",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Crocante", "Vegetariano"]
+  },
+  { "name": "Farinha", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Refrigerante",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Doce", "Cremoso", "Artesanal", "Amargo"]
+  },
+  {
+    "name": "Pão",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Sem Glúten"]
+  },
+  { "name": "Arroz", "category": 1, "perishable": true, "subCategories": [] },
+  { "name": "Cenoura", "category": 4, "perishable": true, "subCategories": [] },
+  {
+    "name": "Chocolate",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Azedo", "Vegano", "Congelado", "Nacional"]
+  },
+  {
+    "name": "Roupas",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Doce"]
+  },
+  {
+    "name": "Material de Escritório",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Doce"]
+  },
+  {
+    "name": "Sal",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegano", "Caseiro"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Crocante", "Em Pó", "Cremoso", "Sem Glúten", "Fresco"]
+  },
+  {
+    "name": "Refrigerante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Pó", "Crocante"]
+  },
+  {
+    "name": "Ovos",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Fresco", "Sem Glúten", "Vegano", "Cremoso"]
+  },
+  {
+    "name": "Papel Higiênico",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Orgânico", "Amargo", "Sólido"]
+  },
+  {
+    "name": "Uísque",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Líquido"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Picante", "Fresco", "Diet"]
+  },
+  { "name": "Leite", "category": 5, "perishable": true, "subCategories": [] },
+  {
+    "name": "Cachaça",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Cremoso", "Em Pó", "Integral"]
+  },
+  {
+    "name": "Condicionador",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Cremoso", "Diet"]
+  },
+  {
+    "name": "Batata",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Doce", "Em Conserva", "Sem Glúten", "Em Pó", "Diet"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Importado", "Light", "Diet", "Sólido"]
+  },
+  {
+    "name": "Sorvete",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Azedo", "Vegano"]
+  },
+  {
+    "name": "Creme Hidratante",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Orgânico"]
+  },
+  {
+    "name": "Ferramentas",
+    "category": 1,
+    "perishable": true,
+    "subCategories": []
+  },
+  {
+    "name": "Fermento",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Líquido"]
+  },
+  {
+    "name": "Água",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Caseiro", "Em Conserva", "Amargo"]
+  },
+  {
+    "name": "Cachaça",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Vegano", "Fresco", "Picante", "Caseiro", "Orgânico"]
+  },
+  {
+    "name": "Material Escolar",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Integral", "Nacional", "Sem Glúten"]
+  },
+  {
+    "name": "Azeite",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Em Conserva", "Picante", "Em Pó", "Fresco"]
+  },
+  {
+    "name": "Cerveja",
+    "category": 2,
+    "perishable": true,
+    "subCategories": ["Nacional", "Sem Glúten"]
+  },
+  {
+    "name": "Gelatina",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Diet"]
+  },
+  {
+    "name": "Pudim",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Sem Glúten", "Diet"]
+  },
+  {
+    "name": "Detergente",
+    "category": 1,
+    "perishable": true,
+    "subCategories": ["Sem Lactose", "Sólido"]
+  },
+  {
+    "name": "Jardinagem",
+    "category": 4,
+    "perishable": true,
+    "subCategories": ["Doce", "Caseiro", "Diet", "Cremoso"]
+  },
+  {
+    "name": "Peixe",
+    "category": 2,
+    "perishable": true,
+    "subCategories": [
+      "Em Conserva",
+      "Fresco",
+      "Orgânico",
+      "Salgado",
+      "Nacional"
+    ]
+  },
+  {
+    "name": "Iogurte",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Salgado", "Fresco"]
+  },
+  {
+    "name": "Cenoura",
+    "category": 3,
+    "perishable": true,
+    "subCategories": ["Artesanal", "Salgado"]
+  },
+  { 
+  "name": "Tomate",
+  "category": 4,
+  "perishable": true,
+  "subCategories": []
+  },
+  {
+    "name": "Móveis",
+    "category": 5,
+    "perishable": true,
+    "subCategories": ["Vegetariano", "Fresco"]
+  }
+]

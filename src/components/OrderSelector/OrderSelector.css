@@ -1,0 +1,15 @@
+.menu-button {
+    background: white;
+}
+
+.menu-button:hover {
+    background: rgba(102, 179, 186, 0.5);
+}
+
+.menu-button:active {
+    background: rgba(102, 179, 186, 0.5);
+}
+
+.menu-item:hover {
+    background: rgba(102, 179, 186, 0.5);
+}

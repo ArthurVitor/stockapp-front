@@ -1,0 +1,27 @@
+.filter-box{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 11%;
+    padding: 2%;
+    justify-content: space-between;
+    margin: 1%;
+    border-radius: 10px;
+    width: 98%;
+}
+
+.filter-input {
+    padding-right: 4.5rem;
+    font-size: 2.5vh; 
+    color:#335C67;
+    border-color: #ACA7A7;
+    width: 100%;
+}
+
+.filter-input:hover{
+    border-color:  #335C67;
+}
+
+.filter-box:focus{
+    border-color: #335C67;
+}

@@ -1,0 +1,11 @@
+.note-form-control {
+    margin: 10%;
+    margin-left: 0%;
+}
+
+.button-box {
+    justify-content: center;
+    display: flex;
+    margin: 3%;
+    margin-top: 0;
+}

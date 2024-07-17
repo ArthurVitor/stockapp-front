@@ -1,0 +1,63 @@
+.side-bar-links:hover {
+    background-color: #66B3BA;
+    color: white;
+}
+
+.side-bar-links {
+    width: 100%;
+    display: flex;
+    padding: 4%;
+    color: #E3E1E1;
+}
+
+.profile-icon {
+    width: 100%;
+    display: flex;
+    padding: 4%;
+    height: 100%;
+    color: #E3E1E1;
+}
+
+.profile-icon:hover{
+    color: white;
+}
+
+.stock-app {
+    font-size: 3.5vh;
+    height: 11%;
+    background-color: #66B3BA;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Krona One', sans-serif;
+    margin-bottom: 4%;
+}
+
+.side-bar-box {
+    position: fixed;
+    width: 25%;
+    height: 100vh;
+    background-color: #335C67;
+}
+
+.icons {
+    color: #E3E1E1;
+    margin-top: 1%;
+    height: 18px;
+}
+
+.list-links {
+    width: 100%;
+    text-align: left;
+    font-size: 2.9vh;
+}
+
+.perfil-icon-container {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: left;
+  }
